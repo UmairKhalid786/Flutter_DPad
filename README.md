@@ -1,16 +1,17 @@
-# dpad_tv
+# Flutter TV DPad
 
-A new Flutter application.
+Flutter application for handling TV D_pad navigation.   
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Simply find widget named ***DpadWidget*** in ***on_dpad_clic_widget.dart*** file. This widget have two methods 
 
-A few resources to get you started if this is your first Flutter project:
+### 1) Function onClick
+This method support Dpad key code 23 and simple Keyboard Key 66
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### 1) Function(bool isFocused) onFocus
+This method resturns true when any inetraction happens with it and false when control move out.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+for more details please navigate to ***lib*** folder and check ***on_dpad_clic_widget.dart*** file
+
+
