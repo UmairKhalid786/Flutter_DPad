@@ -57,9 +57,9 @@ class MainGridState extends State<MainGrid> {
               padding: margin,
               data: "Item " + index.toString(),
               onTap: (String m) {
-                Scaffold.of(context).showSnackBar(SnackBar(
-                  content: Text(m),
-                ));
+                // Scaffold.of(context).showSnackBar(SnackBar(
+                //   content: Text(m),
+                // ));
               },
             ));
       }),
