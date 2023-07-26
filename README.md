@@ -14,5 +14,4 @@ This method returns true when any interaction happens with it and false when the
 
 for more details please navigate to ***lib*** folder and check ***on_dpad_clic_widget.dart*** file
 
-
 ![Alt Text](https://github.com/UmairKhalid786/Flutter_DPad/blob/master/demo.gif)
