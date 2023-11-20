@@ -1,6 +1,6 @@
 # Flutter TV DPad
 
-Flutter application for handling TV D_pad navigation.   
+Flutter application for handling TV D_pad navigation.
 
 ## Getting Started
 
