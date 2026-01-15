@@ -1,5 +1,3 @@
-Here's a corrected version:
-
 ## Flutter TV D-Pad
 Flutter application for handling TV D-pad navigation.
 
